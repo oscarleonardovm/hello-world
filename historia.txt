@@ -1,5 +1,7 @@
 Esta es la historia de Leonardo
 
-Como su vida, este texto es plano y normalito
+Como su vida, este texto es plano y normal, sin mayores pretensiones.
 
 Nació en Colombia y en Colombia se quedó.
+
+Esto es otro renglón.
